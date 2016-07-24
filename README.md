@@ -16,10 +16,4 @@ Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Ba
 Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
 Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
 Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
-Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
-Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
-Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
-Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
-Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
-Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - 
 Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo - Bar - Foo -
